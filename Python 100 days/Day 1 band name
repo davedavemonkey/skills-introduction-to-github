@@ -1,0 +1,8 @@
+print("Hello World")
+
+x = input("Where were you born enter below \n")
+
+y = input("what is your pets name enter below\n ")
+
+print("Your band could be called " + x + " " + y)
+
